@@ -1,0 +1,63 @@
+#zizag
+{
+    width: 100px;
+    height: 12px;
+
+    position: relative;
+}
+#lineOneZizag {
+
+    position: absolute;
+    bottom: 3px;
+    width:6px;
+    transform: rotate(-45deg);
+    border:1px solid #38383a;
+}
+#lineTwoZizag
+{
+    position: absolute;
+    bottom: 3px;
+    left: 5px;
+    width:6px;
+    transform: rotate(40deg);
+    border:1px solid #38383a;
+
+}
+#lineThreeZizag
+{
+      position: absolute;
+      bottom: 3px;
+      left: 10px;
+      width:6px;
+      transform: rotate(-45deg);
+      border:1px solid #38383a;
+
+}
+#lineFourZizag
+{
+    position: absolute;
+    bottom: 3px;
+    left: 15px;
+    width:6px;
+    transform: rotate(40deg);
+    border:1px solid #38383a;
+}
+#lineFiveZizag
+{
+    position: absolute;
+    bottom: 3px;
+    left: 19px;
+    width:6px;
+    transform: rotate(-45deg);
+    border:1px solid #38383a;
+}
+#lineSix
+{
+    position: absolute;
+    bottom: 3px;
+    left: 24px;
+    width:6px;
+    transform: rotate(40deg);
+    border:1px solid #38383a;
+}
+
